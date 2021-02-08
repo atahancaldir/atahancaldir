@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I am Atahan
 
-<!--
-**atahancaldir/atahancaldir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS sophomore @ Ozyegin University<br>
+Istanbul, Turkey
 
-Here are some ideas to get you started:
+#### What I am interested in?
+- Robotics
+- Artificial Intelligence
+- Economics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on human-robot negotiation
+- :robot: I’m currently learning ML, robotics
+- 📫 How to reach me: atahan.caldir@ozu.edu.tr
