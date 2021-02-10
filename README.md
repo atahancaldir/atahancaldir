@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=1DB954&height=100&section=header&text=Atahan%20Çaldır&animation=fadeIn&fontColor=000080&fontAlignY=50&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=5cbeee&height=100&section=header&text=Atahan%20Çaldır&animation=fadeIn&fontColor=fdfdfd&fontAlignY=50&fontSize=35)
 
 Computer Science and Economics undergraduate @ Ozyegin University<br>
 Istanbul, Turkey
