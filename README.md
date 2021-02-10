@@ -3,13 +3,13 @@
 Computer Science and Economics undergraduate @ Ozyegin University<br>
 Istanbul, Turkey
 
-- 🔭 I’m currently working on human-robot negotiation
-- :robot: I’m currently learning ML, robotics
-- 📫 How to reach me: atahan.caldir@ozu.edu.tr
-
-I am interested in;
+#### Interest Areas
   * Robotics
   * Artificial Intelligence
   * Economics
+
+#### Contact
+ * Mail address: atahan.caldir@ozu.edu.tr
+ * [LinkedIn](https://www.linkedin.com/in/atahancaldir/)
 
 ![](https://media.giphy.com/media/iZkua1UPocHgQ/giphy.gif)
