@@ -3,7 +3,7 @@
 Computer Science and Economics | [Ozyegin University](https://www.ozyegin.edu.tr/)<br>
 Istanbul, Turkey
 
-#### Interest Areas
+#### Interested Areas
   * Robotics
   * Artificial Intelligence
   * Economics
