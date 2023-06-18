@@ -6,7 +6,7 @@
 
 Computer Science graduate | Ozyegin University, Istanbul, Turkey
 
-Little Falls, NJ 07424
+Midland, TX 79705
 
 #### Interested Areas
 
