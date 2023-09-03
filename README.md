@@ -4,8 +4,7 @@
 
 # Atahan Çaldır
 
-Computer Science graduate | Ozyegin University, Istanbul, Turkey
-
+Software Engineeer | AST SpaceMobile
 Midland, TX 79705
 
 #### Interested Areas
